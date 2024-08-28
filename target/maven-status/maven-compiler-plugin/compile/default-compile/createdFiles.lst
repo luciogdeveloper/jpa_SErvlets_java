@@ -1,0 +1,12 @@
+com\mycompany\pruebajava\JakartaRestConfiguration.class
+servlets\SvModificar.class
+logica\Usuario.class
+percistencia\exceptions\IllegalOrphanException.class
+servlets\SvEliminar.class
+logica\Controladora.class
+percistencia\UsuarioJpaController.class
+servlets\SvUsurio.class
+com\mycompany\pruebajava\resources\JakartaEE10Resource.class
+percistencia\exceptions\NonexistentEntityException.class
+percistencia\exceptions\PreexistingEntityException.class
+percistencia\ControladoraPeersistencia.class
